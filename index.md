@@ -5,4 +5,4 @@ Welcome to my website!
 My name is Ria
 
 ## My Favourite Food:
-Ice cream
+1. Ice cream
