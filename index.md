@@ -6,3 +6,7 @@ My name is Ria
 
 ## My Favourite Food:
 1. Ice cream
+
+## Hobbies:
+- hiking
+- photography
