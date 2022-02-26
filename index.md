@@ -3,3 +3,6 @@ Welcome to my website!
 
 ## About me
 My name is Ria
+
+## My Favourite Food:
+Ice cream
