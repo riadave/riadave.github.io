@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
 Welcome to my website!
 
-##about me
+## About me
 My name is Ria
